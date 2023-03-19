@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Avanis Tiwari. Welcome to my profile.
-![LinkedIn](https://www.linkedin.com/in/avanis-tiwari/)
+[LinkedIn](https://www.linkedin.com/in/avanis-tiwari/)
 <!--
 **Avanis9129/Avanis9129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
